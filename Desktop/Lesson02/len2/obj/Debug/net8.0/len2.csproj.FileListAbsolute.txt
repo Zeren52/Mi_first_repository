@@ -1,0 +1,14 @@
+C:\Users\ZEREN\Desktop\Lesson02\len2\bin\Debug\net8.0\len2.exe
+C:\Users\ZEREN\Desktop\Lesson02\len2\bin\Debug\net8.0\len2.deps.json
+C:\Users\ZEREN\Desktop\Lesson02\len2\bin\Debug\net8.0\len2.runtimeconfig.json
+C:\Users\ZEREN\Desktop\Lesson02\len2\bin\Debug\net8.0\len2.dll
+C:\Users\ZEREN\Desktop\Lesson02\len2\bin\Debug\net8.0\len2.pdb
+C:\Users\ZEREN\Desktop\Lesson02\len2\obj\Debug\net8.0\len2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZEREN\Desktop\Lesson02\len2\obj\Debug\net8.0\len2.AssemblyInfoInputs.cache
+C:\Users\ZEREN\Desktop\Lesson02\len2\obj\Debug\net8.0\len2.AssemblyInfo.cs
+C:\Users\ZEREN\Desktop\Lesson02\len2\obj\Debug\net8.0\len2.csproj.CoreCompileInputs.cache
+C:\Users\ZEREN\Desktop\Lesson02\len2\obj\Debug\net8.0\len2.dll
+C:\Users\ZEREN\Desktop\Lesson02\len2\obj\Debug\net8.0\refint\len2.dll
+C:\Users\ZEREN\Desktop\Lesson02\len2\obj\Debug\net8.0\len2.pdb
+C:\Users\ZEREN\Desktop\Lesson02\len2\obj\Debug\net8.0\len2.genruntimeconfig.cache
+C:\Users\ZEREN\Desktop\Lesson02\len2\obj\Debug\net8.0\ref\len2.dll
