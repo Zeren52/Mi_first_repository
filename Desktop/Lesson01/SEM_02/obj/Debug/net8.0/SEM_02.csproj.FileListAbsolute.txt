@@ -1,0 +1,14 @@
+C:\Users\ZEREN\Desktop\Lesson01\SEM_02\obj\Debug\net8.0\SEM_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZEREN\Desktop\Lesson01\SEM_02\obj\Debug\net8.0\SEM_02.AssemblyInfoInputs.cache
+C:\Users\ZEREN\Desktop\Lesson01\SEM_02\obj\Debug\net8.0\SEM_02.AssemblyInfo.cs
+C:\Users\ZEREN\Desktop\Lesson01\SEM_02\obj\Debug\net8.0\SEM_02.csproj.CoreCompileInputs.cache
+C:\Users\ZEREN\Desktop\Lesson01\SEM_02\bin\Debug\net8.0\SEM_02.exe
+C:\Users\ZEREN\Desktop\Lesson01\SEM_02\bin\Debug\net8.0\SEM_02.deps.json
+C:\Users\ZEREN\Desktop\Lesson01\SEM_02\bin\Debug\net8.0\SEM_02.runtimeconfig.json
+C:\Users\ZEREN\Desktop\Lesson01\SEM_02\bin\Debug\net8.0\SEM_02.dll
+C:\Users\ZEREN\Desktop\Lesson01\SEM_02\bin\Debug\net8.0\SEM_02.pdb
+C:\Users\ZEREN\Desktop\Lesson01\SEM_02\obj\Debug\net8.0\SEM_02.dll
+C:\Users\ZEREN\Desktop\Lesson01\SEM_02\obj\Debug\net8.0\refint\SEM_02.dll
+C:\Users\ZEREN\Desktop\Lesson01\SEM_02\obj\Debug\net8.0\SEM_02.pdb
+C:\Users\ZEREN\Desktop\Lesson01\SEM_02\obj\Debug\net8.0\SEM_02.genruntimeconfig.cache
+C:\Users\ZEREN\Desktop\Lesson01\SEM_02\obj\Debug\net8.0\ref\SEM_02.dll
