@@ -1,0 +1,14 @@
+C:\Users\ZEREN\Desktop\SEM_01\bin\Debug\net8.0\SEM_01.exe
+C:\Users\ZEREN\Desktop\SEM_01\bin\Debug\net8.0\SEM_01.deps.json
+C:\Users\ZEREN\Desktop\SEM_01\bin\Debug\net8.0\SEM_01.runtimeconfig.json
+C:\Users\ZEREN\Desktop\SEM_01\bin\Debug\net8.0\SEM_01.dll
+C:\Users\ZEREN\Desktop\SEM_01\bin\Debug\net8.0\SEM_01.pdb
+C:\Users\ZEREN\Desktop\SEM_01\obj\Debug\net8.0\SEM_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZEREN\Desktop\SEM_01\obj\Debug\net8.0\SEM_01.AssemblyInfoInputs.cache
+C:\Users\ZEREN\Desktop\SEM_01\obj\Debug\net8.0\SEM_01.AssemblyInfo.cs
+C:\Users\ZEREN\Desktop\SEM_01\obj\Debug\net8.0\SEM_01.csproj.CoreCompileInputs.cache
+C:\Users\ZEREN\Desktop\SEM_01\obj\Debug\net8.0\SEM_01.dll
+C:\Users\ZEREN\Desktop\SEM_01\obj\Debug\net8.0\refint\SEM_01.dll
+C:\Users\ZEREN\Desktop\SEM_01\obj\Debug\net8.0\SEM_01.pdb
+C:\Users\ZEREN\Desktop\SEM_01\obj\Debug\net8.0\SEM_01.genruntimeconfig.cache
+C:\Users\ZEREN\Desktop\SEM_01\obj\Debug\net8.0\ref\SEM_01.dll
