@@ -1,0 +1,14 @@
+C:\Users\ZEREN\Desktop\Новые_проекты\lesson_1\bin\Debug\net8.0\lesson_1.exe
+C:\Users\ZEREN\Desktop\Новые_проекты\lesson_1\bin\Debug\net8.0\lesson_1.deps.json
+C:\Users\ZEREN\Desktop\Новые_проекты\lesson_1\bin\Debug\net8.0\lesson_1.runtimeconfig.json
+C:\Users\ZEREN\Desktop\Новые_проекты\lesson_1\bin\Debug\net8.0\lesson_1.dll
+C:\Users\ZEREN\Desktop\Новые_проекты\lesson_1\bin\Debug\net8.0\lesson_1.pdb
+C:\Users\ZEREN\Desktop\Новые_проекты\lesson_1\obj\Debug\net8.0\lesson_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZEREN\Desktop\Новые_проекты\lesson_1\obj\Debug\net8.0\lesson_1.AssemblyInfoInputs.cache
+C:\Users\ZEREN\Desktop\Новые_проекты\lesson_1\obj\Debug\net8.0\lesson_1.AssemblyInfo.cs
+C:\Users\ZEREN\Desktop\Новые_проекты\lesson_1\obj\Debug\net8.0\lesson_1.csproj.CoreCompileInputs.cache
+C:\Users\ZEREN\Desktop\Новые_проекты\lesson_1\obj\Debug\net8.0\lesson_1.dll
+C:\Users\ZEREN\Desktop\Новые_проекты\lesson_1\obj\Debug\net8.0\refint\lesson_1.dll
+C:\Users\ZEREN\Desktop\Новые_проекты\lesson_1\obj\Debug\net8.0\lesson_1.pdb
+C:\Users\ZEREN\Desktop\Новые_проекты\lesson_1\obj\Debug\net8.0\lesson_1.genruntimeconfig.cache
+C:\Users\ZEREN\Desktop\Новые_проекты\lesson_1\obj\Debug\net8.0\ref\lesson_1.dll
