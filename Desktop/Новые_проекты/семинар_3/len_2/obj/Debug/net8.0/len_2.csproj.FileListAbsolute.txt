@@ -1,0 +1,14 @@
+C:\Users\ZEREN\Desktop\Новые_проекты\семинар_3\len_2\bin\Debug\net8.0\len_2.exe
+C:\Users\ZEREN\Desktop\Новые_проекты\семинар_3\len_2\bin\Debug\net8.0\len_2.deps.json
+C:\Users\ZEREN\Desktop\Новые_проекты\семинар_3\len_2\bin\Debug\net8.0\len_2.runtimeconfig.json
+C:\Users\ZEREN\Desktop\Новые_проекты\семинар_3\len_2\bin\Debug\net8.0\len_2.dll
+C:\Users\ZEREN\Desktop\Новые_проекты\семинар_3\len_2\bin\Debug\net8.0\len_2.pdb
+C:\Users\ZEREN\Desktop\Новые_проекты\семинар_3\len_2\obj\Debug\net8.0\len_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZEREN\Desktop\Новые_проекты\семинар_3\len_2\obj\Debug\net8.0\len_2.AssemblyInfoInputs.cache
+C:\Users\ZEREN\Desktop\Новые_проекты\семинар_3\len_2\obj\Debug\net8.0\len_2.AssemblyInfo.cs
+C:\Users\ZEREN\Desktop\Новые_проекты\семинар_3\len_2\obj\Debug\net8.0\len_2.csproj.CoreCompileInputs.cache
+C:\Users\ZEREN\Desktop\Новые_проекты\семинар_3\len_2\obj\Debug\net8.0\len_2.dll
+C:\Users\ZEREN\Desktop\Новые_проекты\семинар_3\len_2\obj\Debug\net8.0\refint\len_2.dll
+C:\Users\ZEREN\Desktop\Новые_проекты\семинар_3\len_2\obj\Debug\net8.0\len_2.pdb
+C:\Users\ZEREN\Desktop\Новые_проекты\семинар_3\len_2\obj\Debug\net8.0\len_2.genruntimeconfig.cache
+C:\Users\ZEREN\Desktop\Новые_проекты\семинар_3\len_2\obj\Debug\net8.0\ref\len_2.dll
